@@ -14,7 +14,6 @@ def swap(a :int, b: int):
   t = a
   a = b
   b = t
-  
   return a, b
 if __name__ == '__main__':
     main()
